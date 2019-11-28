@@ -1,6 +1,6 @@
 {
   "name": "rs-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/index.js",
   "description": "Utilities for Rumsan Projects",
   "author": "Rumsan Tech <team@rumsan.com>",
