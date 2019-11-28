@@ -1,4 +1,9 @@
 {
+  "name": "rs-utils",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "description": "Utilities for Rumsan Projects",
+  "author": "Rumsan Tech <team@rumsan.com>",
   "dependencies": {
     "js-cookie": "^2.2.1"
   },
