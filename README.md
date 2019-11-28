@@ -1,2 +1,2 @@
 # rs-utils
-RS utilities for productivity
+RS JavaScript utilities for productivity
